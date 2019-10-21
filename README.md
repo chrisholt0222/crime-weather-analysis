@@ -12,5 +12,5 @@ Selected crime and weather data from 2014 - 2018 for the following cities: Atlan
 
 The population for each metro area was added to the summarized file. The file was coverted to a sqlite format to use with SQLAlchemy and deployed an interactive dashboard plotting the crime data.
 
-![Dashboard](crime-dashboard.pdf)
+![Dashboard](crimeplot.png)
 
